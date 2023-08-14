@@ -1,8 +1,8 @@
 # practicegithub-intro
 this is the thing he wanted us to write
 
-##header 2
+## header 2
 this is axample
 
-###chapter
+### chapter
 more text
